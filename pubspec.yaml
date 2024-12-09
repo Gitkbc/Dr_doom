@@ -1,0 +1,43 @@
+name: doom
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  http: ^1.2.2
+  audioplayers: ^6.1.0
+  record: ^5.1.2
+  speech_to_text: ^7.0.0
+  avatar_glow: ^3.0.1
+  firebase_core: ^3.4.1
+  firebase_auth: ^5.0.0
+  cloud_firestore: ^5.0.0
+  flutter_dotenv: ^5.0.2
+  dash_chat_2: ^0.0.18 # Fixed spacing issue
+  chat_gpt_sdk: ^3.1.0
+  flutter_tts: ^3.6.4
+  shared_preferences: ^2.3.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/Doctor.gif
+    - assets/images/340B_Video_patient.gif
+    - assets/images/clip-gif-doctor-cartoon-16.gif
+    - assets/wake_word/Hey-Doctor-doom_en_android_v3_0_0.ppn
+    - assets/images/Doctor Doom Tattoo.jpeg
+    - assets/images/dr_doom.mp3

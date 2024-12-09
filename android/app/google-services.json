@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "171136645660",
+    "project_id": "doom-230ab",
+    "storage_bucket": "doom-230ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171136645660:android:f4a44e591e85a1f5e8fdd9",
+        "android_client_info": {
+          "package_name": "com.example.doom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgq6GpVfrvzbP04jMfP8vEEZ_NTjtlnQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+const OPENAI_API_KEY = "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";
+const String API_URL = 'https://api.openai.com/v1/chat/completions';
