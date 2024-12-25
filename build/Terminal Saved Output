@@ -1,0 +1,453 @@
+Last login: Wed Dec 25 10:51:18 on console
+/Users/admin/.zshenv:1: no such file or directory: /user/libexec/java_home
+find %                                                                          admin@Admins-MacBook my_doom % find . -tyoe f -size +100M
+find: -tyoe: unknown primary or operator
+admin@Admins-MacBook my_doom % find . -type f -size +100M
+admin@Admins-MacBook my_doom % git init
+Reinitialized existing Git repository in /Users/admin/Desktop/my_doom/.git/
+admin@Admins-MacBook my_doom % git add.
+git: 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+	add
+admin@Admins-MacBook my_doom % git add .
+admin@Admins-MacBook my_doom % git commit -m "Initial commit of my project"
+[main bbba19e] Initial commit of my project
+ 76 files changed, 1618 insertions(+), 128 deletions(-)
+ rewrite .dart_tool/chrome-device/Default/Extension State/LOG (100%)
+ rewrite .dart_tool/chrome-device/Default/Extension State/LOG.old (97%)
+ rewrite .dart_tool/chrome-device/Default/GCM Store/Encryption/LOG (95%)
+ rewrite .dart_tool/chrome-device/Default/GCM Store/Encryption/LOG.old (95%)
+ create mode 100644 .dart_tool/chrome-device/Default/IndexedDB/http_localhost_49544.indexeddb.leveldb/000004.log
+ create mode 100644 .dart_tool/chrome-device/Default/IndexedDB/http_localhost_49544.indexeddb.leveldb/000005.ldb
+ create mode 100644 .dart_tool/chrome-device/Default/IndexedDB/http_localhost_49544.indexeddb.leveldb/CURRENT
+ create mode 100644 .dart_tool/chrome-device/Default/IndexedDB/http_localhost_49544.indexeddb.leveldb/LOCK
+ create mode 100644 .dart_tool/chrome-device/Default/IndexedDB/http_localhost_49544.indexeddb.leveldb/LOG
+ create mode 100644 .dart_tool/chrome-device/Default/IndexedDB/http_localhost_49544.indexeddb.leveldb/MANIFEST-000001
+ create mode 100644 .dart_tool/chrome-device/Default/IndexedDB/http_localhost_49682.indexeddb.leveldb/000004.log
+ create mode 100644 .dart_tool/chrome-device/Default/IndexedDB/http_localhost_49682.indexeddb.leveldb/000005.ldb
+ create mode 100644 .dart_tool/chrome-device/Default/IndexedDB/http_localhost_49682.indexeddb.leveldb/CURRENT
+ create mode 100644 .dart_tool/chrome-device/Default/IndexedDB/http_localhost_49682.indexeddb.leveldb/LOCK
+ create mode 100644 .dart_tool/chrome-device/Default/IndexedDB/http_localhost_49682.indexeddb.leveldb/LOG
+ create mode 100644 .dart_tool/chrome-device/Default/IndexedDB/http_localhost_49682.indexeddb.leveldb/MANIFEST-000001
+ create mode 100644 .dart_tool/chrome-device/Default/IndexedDB/http_localhost_50902.indexeddb.leveldb/000004.log
+ copy .dart_tool/chrome-device/Default/IndexedDB/{http_localhost_53421.indexeddb.leveldb => http_localhost_50902.indexeddb.leveldb}/000005.ldb (79%)
+ create mode 100644 .dart_tool/chrome-device/Default/IndexedDB/http_localhost_50902.indexeddb.leveldb/CURRENT
+ create mode 100644 .dart_tool/chrome-device/Default/IndexedDB/http_localhost_50902.indexeddb.leveldb/LOCK
+ create mode 100644 .dart_tool/chrome-device/Default/IndexedDB/http_localhost_50902.indexeddb.leveldb/LOG
+ create mode 100644 .dart_tool/chrome-device/Default/IndexedDB/http_localhost_50902.indexeddb.leveldb/MANIFEST-000001
+ rewrite .dart_tool/chrome-device/Default/IndexedDB/http_localhost_53421.indexeddb.leveldb/000005.ldb (100%)
+ rewrite .dart_tool/chrome-device/Default/Local Storage/leveldb/LOG (95%)
+ rewrite .dart_tool/chrome-device/Default/Local Storage/leveldb/LOG.old (95%)
+ rewrite .dart_tool/chrome-device/Default/Network Persistent State (76%)
+ rewrite .dart_tool/chrome-device/Default/Preferences (93%)
+ rewrite .dart_tool/chrome-device/Default/Service Worker/Database/LOG (100%)
+ rewrite .dart_tool/chrome-device/Default/Service Worker/Database/LOG.old (100%)
+ create mode 100644 .dart_tool/chrome-device/Default/Service Worker/ScriptCache/0d3086d7cda635d4_0
+ create mode 100644 .dart_tool/chrome-device/Default/Service Worker/ScriptCache/23469ac906fcc612_0
+ rewrite .dart_tool/chrome-device/Default/Service Worker/ScriptCache/index-dir/the-real-index (97%)
+ rewrite .dart_tool/chrome-device/Default/Session Storage/LOG (97%)
+ rewrite .dart_tool/chrome-device/Default/Session Storage/LOG.old (97%)
+ create mode 100644 .dart_tool/chrome-device/Default/Sessions/Session_13378811948661913
+ create mode 100644 .dart_tool/chrome-device/Default/Sessions/Session_13379511491863523
+ create mode 100644 .dart_tool/chrome-device/Default/Sessions/Tabs_13378811949753347
+ create mode 100644 .dart_tool/chrome-device/Default/Sessions/Tabs_13379511492911079
+ rewrite .dart_tool/chrome-device/Default/Site Characteristics Database/LOG (92%)
+ rewrite .dart_tool/chrome-device/Default/Site Characteristics Database/LOG.old (100%)
+ rewrite .dart_tool/chrome-device/Default/Sync Data/LevelDB/LOG (97%)
+ rewrite .dart_tool/chrome-device/Default/Sync Data/LevelDB/LOG.old (97%)
+ rewrite .dart_tool/chrome-device/Default/TransportSecurity (67%)
+ rewrite .dart_tool/chrome-device/Default/shared_proto_db/LOG (98%)
+ rewrite .dart_tool/chrome-device/Default/shared_proto_db/LOG.old (98%)
+ rewrite .dart_tool/chrome-device/Default/shared_proto_db/metadata/LOG (94%)
+ rewrite .dart_tool/chrome-device/Default/shared_proto_db/metadata/LOG.old (93%)
+ create mode 100644 .idea/.gitignore
+ create mode 100644 .idea/libraries/Dart_Packages.xml
+ create mode 100644 .idea/libraries/Dart_SDK.xml
+ create mode 100644 .idea/libraries/Flutter_Plugins.xml
+ create mode 100644 .idea/material_theme_project_new.xml
+ create mode 100644 .idea/misc.xml
+ create mode 100644 .idea/modules.xml
+ create mode 100644 .idea/my_doom.iml
+ create mode 100644 .idea/other.xml
+ create mode 100644 .idea/vcs.xml
+ rewrite android/app/src/main/AndroidManifest.xml (72%)
+ create mode 100644 build/last_build_run.json
+admin@Admins-MacBook my_doom % git remote add origin https://github.com/Gitkbc/Dr_doom.git
+fatal: remote origin already exists.
+admin@Admins-MacBook my_doom % git branch -M main
+admin@Admins-MacBook my_doom % git push -u origin main
+Counting objects: 7884, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (4713/4713), done.
+error: RPC failed; HTTP 400 curl 56 The requested URL returned error: 400
+fatal: The remote end hung up unexpectedly
+Writing objects: 100% (7884/7884), 49.08 MiB | 15.08 MiB/s, done.
+Total 7884 (delta 2841), reused 7743 (delta 2780)
+fatal: The remote end hung up unexpectedly
+Everything up-to-date
+admin@Admins-MacBook my_doom % git status
+On branch main
+nothing to commit, working tree clean
+admin@Admins-MacBook my_doom % git remote -v
+origin	https://github.com/Gitkbc/Dr_doom.git (fetch)
+origin	https://github.com/Gitkbc/Dr_doom.git (push)
+admin@Admins-MacBook my_doom % git-sizer
+
+zsh: command not found: git-sizer
+admin@Admins-MacBook my_doom % git-sizer
+zsh: command not found: git-sizer
+admin@Admins-MacBook my_doom % find . -type f -size +100M
+admin@Admins-MacBook my_doom % git filter-repo --path path/to/large-file --invert-paths
+git: 'filter-repo' is not a git command. See 'git --help'.
+admin@Admins-MacBook my_doom % brew install git-sizer                          
+==> Auto-updating Homebrew...
+Adjust how often this is run with HOMEBREW_AUTO_UPDATE_SECS or disable with
+HOMEBREW_NO_AUTO_UPDATE. Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
+==> Auto-updated Homebrew!
+Updated 3 taps (homebrew/services, homebrew/core and homebrew/cask).
+==> New Formulae
+acronym                    legba                      s5cmd
+atac                       libesedb                   sendme
+azurehound                 libkeyfinder               sentry-cli
+bender                     limbo                      sfml@2
+cargo-public-api           malcontent                 slepc
+cargo-shuttle              mdz                        slepc-complex
+codevis                    mmdbctl                    slumber
+dry                        neverest                   starlark-rust
+git-ignore                 odbc2parquet               static-web-server
+glaze                      oranda                     swctl
+go-blueprint               parallel-disk-usage        synchrony
+gopeed                     parca                      talosctl
+gsan                       parlay                     the-way
+gurk                       pipelight                  tomcat@10
+heroku                     pistache                   tuisky
+hgrep                      planus                     typeshare
+humanlog                   pscale                     tzdb
+jwt-cli                    qbec                       vals
+kool                       rapidyaml                  wails
+languagetool-rust          replxx                     watcher
+leetcode-cli               reveal-md
+==> New Casks
+alcove                                   font-moralerspace-nf
+bindiff                                  font-pochaevsk
+bookmacster@beta                         font-ponomar
+dehesselle-meld                          font-shafarik
+fastdmg                                  font-tagesschrift
+font-fairfax-hd                          font-triodion
+font-kreative-square                     font-udev-gothic-hs
+font-moralerspace                        mouseless
+font-moralerspace-hw                     rode-virtual-channels
+font-moralerspace-hw-jpdoc               soundsource@test
+font-moralerspace-hw-nf                  stratoshark
+font-moralerspace-jpdoc                  superwhisper
+
+You have 18 outdated formulae installed.
+
+Warning: You are using macOS 12.
+We (and Apple) do not provide support for this old version.
+It is expected behaviour that some formulae will fail to build in this old version.
+It is expected behaviour that Homebrew will be buggy and slow.
+Do not create any issues about this on Homebrew's GitHub repositories.
+Do not create any issues even if you think this message is unrelated.
+Any opened issues will be immediately closed without response.
+Do not ask for help from Homebrew or its maintainers on social media.
+You may ask for help in Homebrew's discussions but are unlikely to receive a response.
+Try to figure out the problem yourself and submit a fix as a pull request.
+We will review it but may or may not accept it.
+
+==> Downloading https://ghcr.io/v2/homebrew/core/git-sizer/manifests/1.5.0
+######################################################################### 100.0%
+==> Fetching git-sizer
+==> Downloading https://ghcr.io/v2/homebrew/core/git-sizer/blobs/sha256:73f48a5d
+######################################################################### 100.0%
+==> Pouring git-sizer--1.5.0.monterey.bottle.tar.gz
+🍺  /usr/local/Cellar/git-sizer/1.5.0: 6 files, 3.4MB
+==> Running `brew cleanup git-sizer`...
+Disable this behaviour by setting HOMEBREW_NO_INSTALL_CLEANUP.
+Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
+==> `brew cleanup` has not been run in the last 30 days, running now...
+Disable this behaviour by setting HOMEBREW_NO_INSTALL_CLEANUP.
+Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
+Removing: /Users/admin/Library/Caches/Homebrew/brotli_bottle_manifest--1.1.0-1... (10KB)
+Removing: /Users/admin/Library/Caches/Homebrew/brotli--1.1.0... (383.6KB)
+Removing: /Users/admin/Library/Caches/Homebrew/c-ares_bottle_manifest--1.32.2... (7.8KB)
+Removing: /Users/admin/Library/Caches/Homebrew/c-ares--1.34.3.tar.gz... (973.9KB)
+Removing: /usr/local/Cellar/ca-certificates/2024-07-02... (4 files, 231.3KB)
+Removing: /Users/admin/Library/Caches/Homebrew/ca-certificates_bottle_manifest--2024-07-02... (1.8KB)
+Removing: /Users/admin/Library/Caches/Homebrew/ca-certificates--2024-07-02... (129.1KB)
+Removing: /Users/admin/Library/Caches/Homebrew/cjson_bottle_manifest--1.7.18... (9KB)
+Removing: /Users/admin/Library/Caches/Homebrew/cjson--1.7.18... (53.6KB)
+Removing: /Users/admin/Library/Caches/Homebrew/cmake--3.31.2.tar.gz... (11.2MB)
+Removing: /Users/admin/Library/Caches/Homebrew/cocoapods_bottle_manifest--1.15.2... (14.9KB)
+Removing: /Users/admin/Library/Caches/Homebrew/cocoapods--1.15.2... (9.6MB)
+Removing: /Users/admin/Library/Caches/Homebrew/gettext_bottle_manifest--0.22.5... (10KB)
+Removing: /Users/admin/Library/Caches/Homebrew/gettext--0.22.5... (10.2MB)
+Removing: /Users/admin/Library/Caches/Homebrew/git_bottle_manifest--2.45.2... (14.3KB)
+Removing: /Users/admin/Library/Caches/Homebrew/git--Net::SMTP::SSL--1.04.tar.gz... (2.4KB)
+Removing: /Users/admin/Library/Caches/Homebrew/git-gui_bottle_manifest--2.45.2... (11.0KB)
+Removing: /Users/admin/Library/Caches/Homebrew/icu4c@76--76.1.tgz... (26.2MB)
+Removing: /Users/admin/Library/Caches/Homebrew/libcbor_bottle_manifest--0.11.0... (7.4KB)
+Removing: /Users/admin/Library/Caches/Homebrew/libcbor--0.11.0... (38.5KB)
+Removing: /Users/admin/Library/Caches/Homebrew/libevent_bottle_manifest--2.1.12_1... (12.1KB)
+Removing: /Users/admin/Library/Caches/Homebrew/libevent--2.1.12_1... (677KB)
+Removing: /Users/admin/Library/Caches/Homebrew/libfido2_bottle_manifest--1.15.0... (13.0KB)
+Removing: /Users/admin/Library/Caches/Homebrew/libfido2--1.15.0... (335.7KB)
+Removing: /Users/admin/Library/Caches/Homebrew/libnghttp2_bottle_manifest--1.61.0... (7.4KB)
+Removing: /Users/admin/Library/Caches/Homebrew/libnghttp2--1.61.0... (222.8KB)
+Removing: /Users/admin/Library/Caches/Homebrew/libuv_bottle_manifest--1.48.0... (7.4KB)
+Removing: /Users/admin/Library/Caches/Homebrew/libuv--1.48.0... (349.4KB)
+Removing: /Users/admin/Library/Caches/Homebrew/libwebsockets_bottle_manifest--4.3.3... (12.6KB)
+Removing: /Users/admin/Library/Caches/Homebrew/libwebsockets--4.3.3... (702.3KB)
+Removing: /Users/admin/Library/Caches/Homebrew/libyaml_bottle_manifest--0.2.5... (11KB)
+Removing: /Users/admin/Library/Caches/Homebrew/libyaml--0.2.5... (107.8KB)
+Removing: /Users/admin/Library/Caches/Homebrew/lz4_bottle_manifest--1.10.0-1... (8.0KB)
+Removing: /Users/admin/Library/Caches/Homebrew/lz4_bottle_manifest--1.9.4... (9.9KB)
+Removing: /Users/admin/Library/Caches/Homebrew/lz4--1.10.0... (301.3KB)
+Removing: /Users/admin/Library/Caches/Homebrew/mongosh_bottle_manifest--2.2.12... (23.4KB)
+Removing: /Users/admin/Library/Caches/Homebrew/mongosh--2.3.4.tgz... (79.6KB)
+Removing: /Users/admin/Library/Caches/Homebrew/mosquitto_bottle_manifest--2.0.18... (11.9KB)
+Removing: /Users/admin/Library/Caches/Homebrew/mosquitto--2.0.18... (511.5KB)
+Removing: /Users/admin/Library/Caches/Homebrew/mysql_bottle_manifest--9.0.1... (27.9KB)
+Removing: /Users/admin/Library/Caches/Homebrew/mysql--9.0.1... (80.9MB)
+Removing: /Users/admin/Library/Caches/Homebrew/mysql--9.0.1.tar.gz... (408.5MB)
+Removing: /Users/admin/Library/Caches/Homebrew/nano_bottle_manifest--8.0... (9.7KB)
+Removing: /Users/admin/Library/Caches/Homebrew/nano--8.2... (1.1MB)
+Removing: /Users/admin/Library/Caches/Homebrew/ncurses_bottle_manifest--6.5... (11.2KB)
+Removing: /Users/admin/Library/Caches/Homebrew/ncurses--6.5... (2.3MB)
+Removing: /Users/admin/Library/Caches/Homebrew/node_bottle_manifest--22.5.1... (18.2KB)
+Removing: /Users/admin/Library/Caches/Homebrew/node--23.3.0.tar.xz... (45.8MB)
+Removing: /Users/admin/Library/Caches/Homebrew/node--npm--10.9.0.tgz... (2.6MB)
+Removing: /usr/local/Cellar/openssl@3/3.3.1... (6,982 files, 33MB)
+Removing: /usr/local/Cellar/openssl@3/3.3.2... (6,984 files, 33MB)
+Removing: /Users/admin/Library/Caches/Homebrew/openssl@3_bottle_manifest--3.3.1... (9.2KB)
+Removing: /Users/admin/Library/Caches/Homebrew/openssl@3_bottle_manifest--3.3.2... (13KB)
+Removing: /Users/admin/Library/Caches/Homebrew/openssl@3--3.3.1... (8.8MB)
+Removing: /Users/admin/Library/Caches/Homebrew/openssl@3--3.3.2... (8.8MB)
+Removing: /Users/admin/Library/Caches/Homebrew/pcre2_bottle_manifest--10.44... (8.8KB)
+Removing: /Users/admin/Library/Caches/Homebrew/pcre2--10.44... (2.1MB)
+Removing: /Users/admin/Library/Caches/Homebrew/pkgconf--2.3.0.tar.xz... (308.8KB)
+Removing: /Users/admin/Library/Caches/Homebrew/protobuf@21_bottle_manifest--21.12-2... (7.8KB)
+Removing: /Users/admin/Library/Caches/Homebrew/protobuf@21--21.12... (4.9MB)
+Removing: /Users/admin/Library/Caches/Homebrew/protobuf@21--21.12.tar.gz... (7.3MB)
+Removing: /Users/admin/Library/Caches/Homebrew/protobuf@21--patch--911925e427a396fa5e54354db8324c0178f5c602b3f819f7d471bb569cc34f53.patch... (3.7KB)
+Removing: /Users/admin/Library/Caches/Homebrew/python@3.12--3.12.6... (15.6MB)
+Removing: /Users/admin/Library/Caches/Homebrew/python@3.12--flit-core--3.10.1.tar.gz... (41.8KB)
+Removing: /Users/admin/Library/Caches/Homebrew/python@3.12--patch--8bfe417c815da4ca2c0a2457ce7ef81bc9dae310e20e4fb36235901ea4be1658.diff... (1.8KB)
+Removing: /Users/admin/Library/Caches/Homebrew/python@3.12--pip--24.3.1.tar.gz... (1.8MB)
+Removing: /Users/admin/Library/Caches/Homebrew/python@3.12--wheel--0.45.1.tar.gz... (105KB)
+Removing: /Users/admin/Library/Caches/Homebrew/python@3.13--flit-core--3.10.1.tar.gz... (41.8KB)
+Removing: /Users/admin/Library/Caches/Homebrew/python@3.13--patch--e1c2699cf3e39731a19207ed69400a67336cda7767aa08f6f46029f26b1d733b.diff... (1.7KB)
+Removing: /Users/admin/Library/Caches/Homebrew/python@3.13--pip--24.3.1.tar.gz... (1.8MB)
+Removing: /Users/admin/Library/Caches/Homebrew/python@3.13--setuptools--75.6.0.tar.gz... (1.3MB)
+Removing: /Users/admin/Library/Caches/Homebrew/python@3.13--wheel--0.45.1.tar.gz... (105KB)
+Removing: /Users/admin/Library/Caches/Homebrew/ruby_bottle_manifest--3.3.3... (13.9KB)
+Removing: /Users/admin/Library/Caches/Homebrew/ruby_bottle_manifest--3.3.4... (16.4KB)
+Removing: /usr/local/Cellar/sqlite/3.46.1... (12 files, 4.8MB)
+Removing: /Users/admin/Library/Caches/Homebrew/sqlite_bottle_manifest--3.46.1... (11.2KB)
+Removing: /Users/admin/Library/Caches/Homebrew/sqlite--3.46.1... (2.3MB)
+Removing: /Users/admin/Library/Caches/Homebrew/tcl-tk_bottle_manifest--8.6.14... (11.7KB)
+Removing: /Users/admin/Library/Caches/Homebrew/tcl-tk--8.6.14... (8.5MB)
+Removing: /Users/admin/Library/Caches/Homebrew/tcl-tk--9.0.0.tar.gz... (11.1MB)
+Removing: /Users/admin/Library/Caches/Homebrew/tcl-tk--critcl--3.3.1.tar.gz... (1.6MB)
+Removing: /Users/admin/Library/Caches/Homebrew/tcl-tk--itk4--4-2.tar.gz... (164.3KB)
+Removing: /Users/admin/Library/Caches/Homebrew/tcl-tk--tcllib--2.0.tar.xz... (14.2MB)
+Removing: /Users/admin/Library/Caches/Homebrew/tcl-tk--tcltls--6d3664930c.tar.gz... (235.9KB)
+Removing: /Users/admin/Library/Caches/Homebrew/tcl-tk--tk--9.0.0.tar.gz... (4.4MB)
+Removing: /usr/local/Cellar/xz/5.6.2... (96 files, 1.9MB)
+Removing: /Users/admin/Library/Caches/Homebrew/xz_bottle_manifest--5.6.2... (9.4KB)
+Removing: /Users/admin/Library/Caches/Homebrew/xz--5.6.2... (569.9KB)
+Removing: /Users/admin/Library/Caches/Homebrew/zlib_bottle_manifest--1.3.1... (7.4KB)
+Removing: /Users/admin/Library/Caches/Homebrew/zlib--1.3.1... (154.8KB)
+Removing: /Users/admin/Library/Caches/Homebrew/zstd_bottle_manifest--1.5.6... (9.1KB)
+Removing: /Users/admin/Library/Caches/Homebrew/zstd--1.5.6... (991.2KB)
+==> Autoremoving 2 unneeded formulae:
+autoconf
+m4
+Uninstalling /usr/local/Cellar/autoconf/2.72... (72 files, 3.6MB)
+Uninstalling /usr/local/Cellar/m4/1.4.19... (14 files, 743.3KB)
+Removing: /Users/admin/Library/Caches/Homebrew/sphinx-doc--snowballstemmer--2.2.0.tar.gz... (84.7KB)
+Removing: /Users/admin/Library/Caches/Homebrew/sphinx-doc--urllib3--2.2.3.tar.gz... (293.6KB)
+Removing: /Users/admin/Library/Caches/Homebrew/sphinx-doc--packaging--24.1.tar.gz... (145.3KB)
+Removing: /Users/admin/Library/Caches/Homebrew/rust--cargo--0.84.0.tar.gz... (3.9MB)
+Removing: /Users/admin/Library/Caches/Homebrew/rust--rustc-bootstrap--1.82.0.tar.xz... (59.6MB)
+Removing: /Users/admin/Library/Caches/Homebrew/dart-sdk_bottle_manifest--3.4.4... (7.6KB)
+Removing: /Users/admin/Library/Caches/Homebrew/rust--rust-std-bootstrap--1.82.0.tar.xz... (24.9MB)
+Removing: /Users/admin/Library/Caches/Homebrew/llvm--patch--6d8403fec7be55004e94de90b074c2c166811903ad4921fd76274498c5a60a23.patch... (4.9KB)
+Removing: /Users/admin/Library/Caches/Homebrew/sphinx-doc--markupsafe--3.0.1.tar.gz... (19.8KB)
+Removing: /Users/admin/Library/Caches/Homebrew/sphinx-doc--babel--2.16.0.tar.gz... (8.9MB)
+Removing: /Users/admin/Library/Caches/Homebrew/sphinx-doc--8.1.3.tar.gz... (7.8MB)
+Removing: /Users/admin/Library/Caches/Homebrew/sphinx-doc--sphinxcontrib-serializinghtml--2.0.0.tar.gz... (15.7KB)
+Removing: /Users/admin/Library/Caches/Homebrew/sphinx-doc--tabulate--0.9.0.tar.gz... (79.2KB)
+Removing: /Users/admin/Library/Caches/Homebrew/portable-ruby-3.3.3.el_capitan.bottle.tar.gz... (10.7MB)
+Removing: /Users/admin/Library/Caches/Homebrew/python@3.11--pip--24.3.1.tar.gz... (1.8MB)
+Removing: /Users/admin/Library/Caches/Homebrew/sphinx-doc--sphinxcontrib-jsmath--1.0.1.tar.gz... (5.7KB)
+Removing: /Users/admin/Library/Caches/Homebrew/go--gobootstrap--1.20.14.tar.gz... (95.5MB)
+Removing: /Users/admin/Library/Caches/Homebrew/protobuf--patch--edc1befbc3d7f7eded6b7516b3b21e1aa339aee70e17c96ab337f22e60e154d7.patch... (4.6KB)
+Removing: /Users/admin/Library/Caches/Homebrew/llvm--patch--2d0a185e27ff2bc46531fc2c18c61ffab521ae8ece2db5b5bed498a15f3f3758.patch... (2.2KB)
+Removing: /Users/admin/Library/Caches/Homebrew/icu4c--74.2... (28.7MB)
+Removing: /Users/admin/Library/Caches/Homebrew/python@3.11--wheel--0.45.1.tar.gz... (105KB)
+Removing: /Users/admin/Library/Caches/Homebrew/tcl-tk@8--tcllib--2.0.tar.xz... (14.2MB)
+Removing: /Users/admin/Library/Caches/Homebrew/tcl-tk@8--tcltls--1.7.22.tar.gz... (161.3KB)
+Removing: /Users/admin/Library/Caches/Homebrew/sphinx-doc--pygments--2.18.0.tar.gz... (4.7MB)
+Removing: /Users/admin/Library/Caches/Homebrew/sphinx-doc--sphinxcontrib-devhelp--2.0.0.tar.gz... (12.7KB)
+Removing: /Users/admin/Library/Caches/Homebrew/protobuf--29.1.tar.gz... (8.9MB)
+Removing: /Users/admin/Library/Caches/Homebrew/python@3.11--patch--8bfe417c815da4ca2c0a2457ce7ef81bc9dae310e20e4fb36235901ea4be1658.diff... (1.8KB)
+Removing: /Users/admin/Library/Caches/Homebrew/portable-ruby-3.3.4_1.el_capitan.bottle.tar.gz... (10.8MB)
+Removing: /Users/admin/Library/Caches/Homebrew/icu4c_bottle_manifest--74.2... (8.4KB)
+Removing: /Users/admin/Library/Caches/Homebrew/sphinx-doc--numpydoc--1.8.0.tar.gz... (88.3KB)
+Removing: /Users/admin/Library/Caches/Homebrew/sphinx-doc--requests--2.32.3.tar.gz... (128.1KB)
+Removing: /Users/admin/Library/Caches/Homebrew/llvm--patch--0acaa80042055ad194306abb9843a94da24f53ee2bb819583d624391a6329b90.patch... (6.6KB)
+Removing: /Users/admin/Library/Caches/Homebrew/z3--4.13.3.tar.gz... (5.3MB)
+Removing: /Users/admin/Library/Caches/Homebrew/sphinx-doc--sphinxcontrib-htmlhelp--2.1.0.tar.gz... (22KB)
+Removing: /Users/admin/Library/Caches/Homebrew/sphinx-doc--sphinxcontrib-qthelp--2.0.0.tar.gz... (16.8KB)
+Removing: /Users/admin/Library/Caches/Homebrew/sphinx-doc--alabaster--1.0.0.tar.gz... (23.6KB)
+Removing: /Users/admin/Library/Caches/Homebrew/pip_cache... (10 files, 3MB)
+Removing: /Users/admin/Library/Caches/Homebrew/rust--cargo-bootstrap--1.82.0.tar.xz... (7.1MB)
+Removing: /Users/admin/Library/Caches/Homebrew/sphinx-doc--imagesize--1.4.1.tar.gz... (1.2MB)
+Removing: /Users/admin/Library/Caches/Homebrew/python@3.11--patch--d1a29b3c9ecf8aecd65e1e54efc42fb1422b2f5d05cba0c747178f4ef8a69683.diff... (637B)
+Removing: /Users/admin/Library/Caches/Homebrew/tcl-tk@8--critcl--3.3.1.tar.gz... (1.6MB)
+Removing: /Users/admin/Library/Caches/Homebrew/sphinx-doc--sphinxcontrib-applehelp--2.0.0.tar.gz... (19.6KB)
+Removing: /Users/admin/Library/Caches/Homebrew/tcl-tk@8--tk--8.6.15.tar.gz... (4.4MB)
+Removing: /Users/admin/Library/Caches/Homebrew/sphinx-doc--jinja2--3.1.4.tar.gz... (234.6KB)
+Removing: /Users/admin/Library/Caches/Homebrew/sphinx-doc--charset-normalizer--3.4.0.tar.gz... (104.1KB)
+Removing: /Users/admin/Library/Caches/Homebrew/mysql@8.0_bottle_manifest--8.0.38... (27.7KB)
+Removing: /Users/admin/Library/Caches/Homebrew/tcl-tk@8--itk4--4.1.0.tar.gz... (247.8KB)
+Removing: /Users/admin/Library/Caches/Homebrew/tcl-tk@8--8.6.15.tar.gz... (11.2MB)
+Removing: /Users/admin/Library/Caches/Homebrew/sphinx-doc--idna--3.10.tar.gz... (186KB)
+Removing: /Users/admin/Library/Caches/Homebrew/llvm--19.1.5.tar.xz... (134.7MB)
+Removing: /Users/admin/Library/Caches/Homebrew/python@3.11--flit-core--3.10.1.tar.gz... (41.8KB)
+Removing: /Users/admin/Library/Caches/Homebrew/sphinx-doc--docutils--0.21.2.tar.gz... (2.1MB)
+Removing: /Users/admin/Library/Caches/Homebrew/Cask/dat--3.0.1.zip... (77.5MB)
+Removing: /Users/admin/Library/Caches/Homebrew/Cask/0-ad--0.0.26-alpha.dmg... (1.5GB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/1e139a85f7bd546c8699d6f763229e483fca6344/Formula/gettext.rb... (2.5KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/1e139a85f7bd546c8699d6f763229e483fca6344/Formula/git.rb... (7.6KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/1e139a85f7bd546c8699d6f763229e483fca6344/Formula/libunistring.rb... (2.4KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/68486a9cf90bd3083efe8e98697382164aca17a9/Formula/cmake.rb... (3.9KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/68486a9cf90bd3083efe8e98697382164aca17a9/Formula/git-lfs.rb... (2KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/68486a9cf90bd3083efe8e98697382164aca17a9/Formula/go.rb... (4.5KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/68486a9cf90bd3083efe8e98697382164aca17a9/Formula/libgit2.rb... (2.2KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/68486a9cf90bd3083efe8e98697382164aca17a9/Formula/libssh2.rb... (2KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/68486a9cf90bd3083efe8e98697382164aca17a9/Formula/llvm.rb... (33.3KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/68486a9cf90bd3083efe8e98697382164aca17a9/Formula/openssl@3.rb... (7.1KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/68486a9cf90bd3083efe8e98697382164aca17a9/Formula/pkgconf.rb... (4KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/68486a9cf90bd3083efe8e98697382164aca17a9/Formula/python@3.13.rb... (21.7KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/68486a9cf90bd3083efe8e98697382164aca17a9/Formula/ruby.rb... (9.2KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/68486a9cf90bd3083efe8e98697382164aca17a9/Formula/rust.rb... (9.6KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/68486a9cf90bd3083efe8e98697382164aca17a9/Formula/sqlite.rb... (2.8KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/68486a9cf90bd3083efe8e98697382164aca17a9/Formula/swig.rb... (2.3KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/68486a9cf90bd3083efe8e98697382164aca17a9/Formula/xz.rb... (2.3KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/68486a9cf90bd3083efe8e98697382164aca17a9/Formula/z3.rb... (2.6KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/ed5b79e8daca8cb47c0f1a849f82a4cffa6ff58a/Formula/c-ares.rb... (1.8KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/ed5b79e8daca8cb47c0f1a849f82a4cffa6ff58a/Formula/certifi.rb... (2.1KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/ed5b79e8daca8cb47c0f1a849f82a4cffa6ff58a/Formula/cmake.rb... (3.9KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/ed5b79e8daca8cb47c0f1a849f82a4cffa6ff58a/Formula/cocoapods.rb... (1.5KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/ed5b79e8daca8cb47c0f1a849f82a4cffa6ff58a/Formula/git.rb... (7.6KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/ed5b79e8daca8cb47c0f1a849f82a4cffa6ff58a/Formula/icu4c@76.rb... (2.2KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/ed5b79e8daca8cb47c0f1a849f82a4cffa6ff58a/Formula/libgit2.rb... (2.2KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/ed5b79e8daca8cb47c0f1a849f82a4cffa6ff58a/Formula/libnghttp2.rb... (2.5KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/ed5b79e8daca8cb47c0f1a849f82a4cffa6ff58a/Formula/libtool.rb... (2.7KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/ed5b79e8daca8cb47c0f1a849f82a4cffa6ff58a/Formula/libunistring.rb... (2.4KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/ed5b79e8daca8cb47c0f1a849f82a4cffa6ff58a/Formula/libuv.rb... (2.0KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/ed5b79e8daca8cb47c0f1a849f82a4cffa6ff58a/Formula/llvm.rb... (33.3KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/ed5b79e8daca8cb47c0f1a849f82a4cffa6ff58a/Formula/mongosh.rb... (1.5KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/ed5b79e8daca8cb47c0f1a849f82a4cffa6ff58a/Formula/mosquitto.rb... (2.5KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/ed5b79e8daca8cb47c0f1a849f82a4cffa6ff58a/Formula/mysql.rb... (8.7KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/ed5b79e8daca8cb47c0f1a849f82a4cffa6ff58a/Formula/node.rb... (7.1KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/ed5b79e8daca8cb47c0f1a849f82a4cffa6ff58a/Formula/protobuf.rb... (2.7KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/ed5b79e8daca8cb47c0f1a849f82a4cffa6ff58a/Formula/protobuf@21.rb... (3.5KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/ed5b79e8daca8cb47c0f1a849f82a4cffa6ff58a/Formula/python@3.11.rb... (23.0KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/ed5b79e8daca8cb47c0f1a849f82a4cffa6ff58a/Formula/python@3.12.rb... (22.8KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/ed5b79e8daca8cb47c0f1a849f82a4cffa6ff58a/Formula/python@3.13.rb... (21.7KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/ed5b79e8daca8cb47c0f1a849f82a4cffa6ff58a/Formula/ruby.rb... (9.2KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/ed5b79e8daca8cb47c0f1a849f82a4cffa6ff58a/Formula/rust.rb... (9.6KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/ed5b79e8daca8cb47c0f1a849f82a4cffa6ff58a/Formula/sphinx-doc.rb... (6.9KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/ed5b79e8daca8cb47c0f1a849f82a4cffa6ff58a/Formula/sqlite.rb... (2.8KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/ed5b79e8daca8cb47c0f1a849f82a4cffa6ff58a/Formula/swig.rb... (2.3KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/ed5b79e8daca8cb47c0f1a849f82a4cffa6ff58a/Formula/tcl-tk.rb... (6.8KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/ed5b79e8daca8cb47c0f1a849f82a4cffa6ff58a/Formula/tcl-tk@8.rb... (6KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/ed5b79e8daca8cb47c0f1a849f82a4cffa6ff58a/Formula/xz.rb... (2.3KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/ed5b79e8daca8cb47c0f1a849f82a4cffa6ff58a/Formula/z3.rb... (2.6KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/edc2e698dd442f958aee9c78331241f85a7c7291/Formula/git-lfs.rb... (2KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/edc2e698dd442f958aee9c78331241f85a7c7291/Formula/go.rb... (4.5KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/edc2e698dd442f958aee9c78331241f85a7c7291/Formula/llvm.rb... (33.3KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/edc2e698dd442f958aee9c78331241f85a7c7291/Formula/python@3.13.rb... (21.7KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/edc2e698dd442f958aee9c78331241f85a7c7291/Formula/ruby.rb... (9.2KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/edc2e698dd442f958aee9c78331241f85a7c7291/Formula/rust.rb... (9.6KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/edc2e698dd442f958aee9c78331241f85a7c7291/Formula/sqlite.rb... (2.8KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/edc2e698dd442f958aee9c78331241f85a7c7291/Formula/swig.rb... (2.3KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/edc2e698dd442f958aee9c78331241f85a7c7291/Formula/xz.rb... (2.3KB)
+Removing: /Users/admin/Library/Caches/Homebrew/api-source/Homebrew/homebrew-core/edc2e698dd442f958aee9c78331241f85a7c7291/Formula/z3.rb... (2.6KB)
+Removing: /Users/admin/Library/Logs/Homebrew/python@3.12... (2 files, 2KB)
+Removing: /Users/admin/Library/Logs/Homebrew/mysql... (1.3KB)
+Pruned 1 symbolic links and 2 directories from /usr/local
+admin@Admins-MacBook my_doom % git-sizer
+error: running 'git config': exit status 129
+admin@Admins-MacBook my_doom % git config --list --show-origin
+file:/usr/local/git/etc/gitconfig	core.excludesfile=~/.gitignore
+file:/usr/local/git/etc/gitconfig	core.legacyheaders=false
+file:/usr/local/git/etc/gitconfig	core.quotepath=false
+file:/usr/local/git/etc/gitconfig	mergetool.keepbackup=true
+file:/usr/local/git/etc/gitconfig	push.default=simple
+file:/usr/local/git/etc/gitconfig	color.ui=auto
+file:/usr/local/git/etc/gitconfig	color.interactive=auto
+file:/usr/local/git/etc/gitconfig	repack.usedeltabaseoffset=true
+file:/usr/local/git/etc/gitconfig	alias.s=status
+file:/usr/local/git/etc/gitconfig	alias.a=!git add . && git status
+file:/usr/local/git/etc/gitconfig	alias.au=!git add -u . && git status
+file:/usr/local/git/etc/gitconfig	alias.aa=!git add . && git add -u . && git status
+file:/usr/local/git/etc/gitconfig	alias.c=commit
+file:/usr/local/git/etc/gitconfig	alias.cm=commit -m
+file:/usr/local/git/etc/gitconfig	alias.ca=commit --amend
+file:/usr/local/git/etc/gitconfig	alias.ac=!git add . && git commit
+file:/usr/local/git/etc/gitconfig	alias.acm=!git add . && git commit -m
+file:/usr/local/git/etc/gitconfig	alias.l=log --graph --all --pretty=format:'%C(yellow)%h%C(cyan)%d%Creset %s %C(white)- %an, %ar%Creset'
+file:/usr/local/git/etc/gitconfig	alias.ll=log --stat --abbrev-commit
+file:/usr/local/git/etc/gitconfig	alias.lg=log --color --graph --pretty=format:'%C(bold white)%h%Creset -%C(bold green)%d%Creset %s %C(bold green)(%cr)%Creset %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
+file:/usr/local/git/etc/gitconfig	alias.llg=log --color --graph --pretty=format:'%C(bold white)%H %d%Creset%n%s%n%+b%C(bold blue)%an <%ae>%Creset %C(bold green)%cr (%ci)' --abbrev-commit
+file:/usr/local/git/etc/gitconfig	alias.d=diff
+file:/usr/local/git/etc/gitconfig	alias.master=checkout master
+file:/usr/local/git/etc/gitconfig	alias.spull=svn rebase
+file:/usr/local/git/etc/gitconfig	alias.spush=svn dcommit
+file:/usr/local/git/etc/gitconfig	alias.alias=!git config --list | grep 'alias\.' | sed 's/alias\.\([^=]*\)=\(.*\)/\1\	 => \2/' | sort
+file:/usr/local/git/etc/gitconfig	include.path=~/.gitcinclude
+file:/usr/local/git/etc/gitconfig	include.path=.githubconfig
+file:/usr/local/git/etc/gitconfig	include.path=.gitcredential
+file:/usr/local/git/etc/gitconfig	diff.exif.textconv=exif
+file:/usr/local/git/etc/gitconfig	credential.helper=osxkeychain
+file:/Users/admin/.gitconfig	user.name=Chaitanya Kalbhairav
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=true
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.ignorecase=true
+file:.git/config	core.precomposeunicode=true
+file:.git/config	remote.origin.url=https://github.com/Gitkbc/Dr_doom.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	user.email=chaitanyakalbhairav@gmail.com
+admin@Admins-MacBook my_doom % nano ~/.gitconfig
+
+  GNU nano 8.0                /Users/admin/.gitconfig                 Modified  
+[user]
+        name = Chaitanya Kalbhairav
+        email =chaitanyakalbhairav@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Help      ^O Write Out ^F Where Is  ^K Cut       ^T Execute   ^C Location
+^X Exit      ^R Read File ^\ Replace   ^U Paste     ^J Justify   ^/ Go To Line
